@@ -4,7 +4,7 @@ This repository contains my NeoVim configuration.
 
 ## Installation
 
-1. **Clone the Repository**: `git clone https://github.com/your_username/neovim-config.git ~/.config/nvim`
+1. **Clone the Repository**: `git clone https://github.com/dominicgaliano/nvim-config.git ~/.config/nvim`
 2. **Install NeoVim**: Refer to the [official NeoVim documentation](https://neovim.io/) for installation instructions.
 3. **Install Plugins**: Launch NeoVim and run `:PlugInstall`.
 4. **Enjoy**: Start using NeoVim with the configured settings.
